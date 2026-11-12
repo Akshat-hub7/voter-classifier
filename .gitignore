@@ -1,0 +1,25 @@
+# ===== Data files (contain personal voter data - never publish) =====
+*.xlsx
+*.xls
+*.csv
+
+# ===== IDE / Editor =====
+.idea/
+.vscode/
+*.swp
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ===== Temp / runner artifacts =====
+tempCodeRunnerFile.py
+
+# ===== OS =====
+Thumbs.db
+Desktop.ini
+.DS_Store
